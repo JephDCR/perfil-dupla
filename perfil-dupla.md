@@ -1,13 +1,13 @@
 # Perfil da Dupla
 
 ## Nome da dupla
-João Eduardo safado e Luiz Fernando
+João Eduardo
 
 ## Cor favorita da dupla
-Azul e Preto
+Azul
 
 ## Comida favorita da dupla
-Japonesa e Strogonoff
+Japonesa
 
 ## Frase da dupla
 Menos foco mais ansiedade
