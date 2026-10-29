@@ -1,7 +1,7 @@
 # Perfil da Dupla
 
 ## Nome da dupla
-João Eduardo e Luiz Fernando
+João Eduardo safado e Luiz Fernando
 
 ## Cor favorita da dupla
 Azul e Preto
